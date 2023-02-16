@@ -1,5 +1,7 @@
 # SDS384-Project
 
+![RLagent](./e-scooter_austin.png)
+
 ## Title
 **Predicting the distance E-scooter riders travel in Austin**
 
