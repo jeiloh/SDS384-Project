@@ -1,7 +1,7 @@
 # SDS384-Project
 
 ## Title
-**Predicting the distance E-scooter riders travel in Austin
+**Predicting the distance E-scooter riders travel in Austin**
 
 Team 1: Ziyu Fan, Zizhe Jiang, Jeil Oh
 
