@@ -2,6 +2,7 @@
 
 ## Title
 Predicting the distance E-scooter riders travel in Austin
+
 Team 1: Ziyu Fan, Zizhe Jiang, Jeil Oh
 
 ## Goals
