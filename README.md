@@ -12,6 +12,6 @@ Find out how far scooter riders travel in the city and what the determining fact
 Shared Micromobility Vehicle Trips
 https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r
 
-This dataset contains shared micromobility vehicle trip data reported to the City of Austin Transportation Department as part of the Shared Small Vehicle Mobility Systems operating rules.
+This dataset contains shared micromobility vehicle trip data reported to the City of Austin Transportation Department as part of the Shared Small Vehicle Mobility Systems operating rules. The dataset has time-related information and the the GEOID of the 2010 US Census Tract in which the trip originated and ended. 
 
 ## References
