@@ -1,6 +1,6 @@
 # SDS384-Project
 
-![RLagent](./e-scooter_austin.png)
+<img src="https://github.com/jeiloh/SDS384-Project/blob/main/e-scooter_austin.png" width=50% height=50%>
 Source: Ride Report Micromobility Dashboard | Austin, Texas
 
 ## Title
