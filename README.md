@@ -20,9 +20,11 @@ https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Ve
 This dataset contains shared micromobility vehicle trip data reported to the City of Austin Transportation Department as part of the Shared Small Vehicle Mobility Systems operating rules. The dataset has time-related information and the the GEOID of the 2010 US Census Tract in which the trip originated and ended. 
 
 ## Contents
-Data: shared micromobility vehicle trip data & United States Census Bureau’s American Community Survey
-Scripts: Exploratory Analysis & ML regression models
-Report: Final project report
+`Data`: shared micromobility vehicle trip data & United States Census Bureau’s American Community Survey
+
+`Scripts`: Exploratory Analysis & ML regression models
+
+`Report`: Final project report
 
 ## References
 [1] Ride Report | Micromobility Dashboard. [public.ridereport.com/austin?x=-97.7335137.](https://public.ridereport.com/)
